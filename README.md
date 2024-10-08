@@ -25,3 +25,6 @@ Projeto Sinistro
 
 
 ## 6. Lista dos endpoints (documentação da API)
+* {/paciente}
+* {/paciente/{id}
+
